@@ -1,14 +1,14 @@
 id,name,lastname,aliases,place_of_birth,current_location,education,birthday,generation
-,Soroush,Lashkari,"Hichkas, Pedar e rap fars","Tehran, Iran","London, England",College dropout,05-08-1984,1
-,Mohamad Reza,Naseri Azad,"Pishro, Reza Pishro, Shahe e Tehran","Tehran, Iran","Turkey, Istanbul",High school graduate,02-01-1988,1
-,Erfan,Haj Rasooli,"Erfan, Erfan Paydar, Khorshid e rap fars","Isfahan, Iran","Los Angles, USA",High school graduate,08-03-1983,1
-,Bahram,Nouraei,Bahram,"Tehran, Iran","Stockholm, Sweden",Unknown,04-25-1988,1
-,Yaser,Bakhtiari,"Yas, Barekat e rap fars","Gilan, Iran",Unknown,College dropout,06-20-1982,1
-,Hosein,Rahmati,"Eblis, Ho3ein, Hosein Eblis, Gang e rap fars","Mashhad, Iran",Unknown,Unknown,08-03-1988,1
-,AmirHosein,Maghsoudloo,"Tataloo, Amir Tataloo, Tatal","Tehran, Iran","Turkey, Istanbul",High school graduate,09-21-1987,1
-,Nima,Zamani,"Nimosh, Nima Nimosh","Obhausen, Germany","Babolsar, Iran",Unknown,04-06-1987,1
-,Saman,Reza Pour,"Wilson, Willi, Asle Kar, 7 e roo tas, Aks e roo as","Tehran, Iran","Tehran, Iran",High school graduate,06-17-1985,1
-,Mehrad,Mostoufi Rad,"Hidden, Mehrad Hidden, Almas e rap fars","Tehran, Iran","Tehran, Iran","Masters degree in architecture, Masters degree in psychology",12-15-1984,1
-,Sohrab,Mostafavi,"Mj, Sohrab Mj, Amu Sohrab, Sardar e shahr","Tehran, Iran","Tehran, Iran",Unknown,11-10-1985,1
-,Alireza,Jazayeri,"Alireza jj, jj, j, Shomare 1, Lord jazayeri","Tehran, Iran","Paris, France",Bachlor’s degree in direction,10-20-1985,"1, 2"
-,Siavash,Jalali,"Sijal, Jijajl","Tehran, Iran","London, England",Masters degree in process engineering,10-07-1985,"1, 2"
+0e049545-a691-464a-b728-51f61a2e06b5,Soroush,Lashkari,"Hichkas, Pedar e rap fars","Tehran, Iran","London, England",College dropout,05-08-1984,1
+f28d81f4-3736-42dc-8a52-cf08c0c7fc12,Mohamad Reza,Naseri Azad,"Pishro, Reza Pishro, Shahe e Tehran","Tehran, Iran","Turkey, Istanbul",High school graduate,02-01-1988,1
+915547e8-1019-47d0-946f-3375f78b51e8,Erfan,Haj Rasooli,"Erfan, Erfan Paydar, Khorshid e rap fars","Isfahan, Iran","Los Angles, USA",High school graduate,08-03-1983,1
+dfdf547e-88a5-4ebb-8015-5016a9ef1f8b,Bahram,Nouraei,Bahram,"Tehran, Iran","Stockholm, Sweden",Unknown,04-25-1988,1
+28f344ea-f5f2-448a-9c3b-6abf0456da88,Yaser,Bakhtiari,"Yas, Barekat e rap fars","Gilan, Iran",Unknown,College dropout,06-20-1982,1
+6bca6a7a-9147-4b90-9796-7f608401db44,Hosein,Rahmati,"Eblis, Ho3ein, Hosein Eblis, Gang e rap fars","Mashhad, Iran",Unknown,Unknown,08-03-1988,1
+4d4ab24a-fed9-426a-b652-ef860bf2625f,AmirHosein,Maghsoudloo,"Tataloo, Amir Tataloo, Tatal","Tehran, Iran","Turkey, Istanbul",High school graduate,09-21-1987,1
+dd27b6a2-43b7-4b1f-b0e0-1d394808e6f3,Nima,Zamani,"Nimosh, Nima Nimosh","Obhausen, Germany","Babolsar, Iran",Unknown,04-06-1987,1
+71dcd3dd-fb3b-4f1c-a140-b922b4f01b23,Saman,Reza Pour,"Wilson, Willi, Asle Kar, 7 e roo tas, Aks e roo as","Tehran, Iran","Tehran, Iran",High school graduate,06-17-1985,1
+bb6e4fcb-f386-46fc-9872-3e87f3c811d5,Mehrad,Mostoufi Rad,"Hidden, Mehrad Hidden, Almas e rap fars","Tehran, Iran","Tehran, Iran","Masters degree in architecture, Masters degree in psychology",12-15-1984,1
+725d7e05-e074-493f-95a9-15ab84293441,Sohrab,Mostafavi,"Mj, Sohrab Mj, Amu Sohrab, Sardar e shahr","Tehran, Iran","Tehran, Iran",Unknown,11-10-1985,1
+59fecb8c-9842-43d4-abba-2550bed13f0b,Alireza,Jazayeri,"Alireza jj, jj, j, Shomare 1, Lord jazayeri","Tehran, Iran","Paris, France",Bachlor’s degree in direction,10-20-1985,"1, 2"
+c5d16754-3d40-447a-badf-aa615a17823b,Siavash,Jalali,"Sijal, Jijajl","Tehran, Iran","London, England",Masters degree in process engineering,10-07-1985,"1, 2"
